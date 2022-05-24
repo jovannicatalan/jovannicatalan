@@ -3,9 +3,9 @@ My name is __Jovanni Catalan__ and I will be writing about the _required_ blog i
 the ST 558 R Homework.
 
 Bulleted List:  
-    - image
-    - email
-    - other relevant
+- image
+- email
+- other relevant
 
 Numbered List:  
     1. Numbered
